@@ -1,5 +1,5 @@
   def using_until
-     phrase = 0
+     phrase = 6
     until phrase == 10
      puts  'Wingardium Leviosa'
      phrase += 1
