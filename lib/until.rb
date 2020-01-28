@@ -2,7 +2,7 @@
      phrase = 0
     until phrase == 10
      puts  'Wingardium Leviosa'
-     phrase 
+     phrase += 1
    end
   end
 
